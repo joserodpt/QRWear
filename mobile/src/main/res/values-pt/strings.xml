@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="desc_add">Clica aqui para adicionar um código QR</string>
+    <string name="add_button">Novo Código QR</string>
+    <string name="save_qr">Guardar Código QR</string>
+    <string name="data_name">Valor</string>
+    <string name="name_name">Nome</string>
+    <string name="type_name">Tipo</string>
+    <string name="emoji_name">Emoji</string>
+    <string name="emoji_switch">Usar Emoji como Icon</string>
+    <string name="qr_added">adicionado via app!</string>
+    <string name="fields_empty">Existem valores em branco.</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">QR Wear</string>
+    <string name="desc_add">Click here to add a QR Code</string>
+    <string name="add_button">New QR Code</string>
+    <string name="save_qr">Save QR Code</string>
+    <string name="name_name">Name</string>
+    <string name="data_name">Data</string>
+    <string name="type_name">Type</string>
+    <string name="emoji_name">Emoji</string>
+    <string name="emoji_switch">Use Emoji as Icon</string>
+    <string name="qr_added">added with app!</string>
+    <string name="fields_empty">There are empty fields.</string>
+</resources>
